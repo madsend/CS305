@@ -1,0 +1,63 @@
+Zack McGinnis
+Final Paper
+CS305
+08/12/2015
+The Ethics of Player Tracking Software in Online Poker
+
+
+	No game or sport has evolved more in the last 20 years than the game of poker.  What was once thought of as a popular, albeit degenerate activity of cowboys and old men, poker has now evolved into a competitive battleground for some of the brightest minds in the world. This evolution has been aided entirely by the growth and influence of the Internet. However, with this surge in popularity comes certain challenges and ethical considerations as technology becomes further intertwined with this classic card game.
+	Traditionally, the game of poker forced players to make informed decisions based on physical and psychological “tells” displayed by their opponents. With the advent of online poker, these “tells” were all but eliminated, and players were forced to adapt their play to gain an advantage against virtual opponents. It was this necessity to gather player-specific information which led to the birth of the heads-up-display, or HUD.
+	A HUD is a software application which gathers and displays hand history data for each table the user is playing. This hand history data is unique to each player at the table, and is stored as such in a database (with each player's username as a unique key within the database). This stored data is accessed and updated for every opponent whenever the user is seated at the same table with said opponent.
+	This type of data mining can be extremely valuable to players who wish to gather more information about their faceless opponents. The compiled hand history data for each opponent is displayed by the HUD through multiple statistical categories: number of hands seen, total % of hands played, aggression factor, and many others. So, just as the traditional poker player may visibly notice a physical sign of strength in his opponents actions, the online user can, through a HUD, realize that same strength by analyzing his opponents low 3-bet frequency.
+	It is important to note that these HUD applications can only track the play of other players while the user is currently seated at the table. Most poker websites, including PokerStars, state that tools and services that profile your opponents, but make use of only information which you have accumulated through your own play are within the terms of use4. Conversely, gathering player data through alternative means, such as importing a database of player statistics (of opponents whom you have never played against), is strictly forbidden by most poker websites. Players with access to such a database can call up detailed information about every one of his opponents without ever playing against those opponents himself, giving that player an unfair advantage against others at his table4.
+	However, there are instances of HUD software benefiting the greater good of the poker community. In 2008, a player with the username “NioNio” won $300,000 over the course of 3,000 hands on the poker website UltimateBet.net. This extraordinary winrate may have gone unnoticed if it weren't for a group of astute players who became suspicious of NioNio's unusual playing style. It was found (through compiled HUD data) that NioNio played approximately 60% of the 3,000 hands he was dealt3: a percentage which his suspicious peers noticed was not consistent with proven, winning strategies. One especially curious player, Michael Josem, plotted NioNio's winrate and % of  hands played with approximately 1,000 other users on the UltimateBet site. Josem's results showed that NioNio's winrate was 10 standard deviations above the mean3.
+	UltimateBet was presented with these findings, and “...acknowledged that NioNio and other player accounts 'did in fact have an unfair advantage' obtained through 'unauthorized software code that allowed the perpetrators to obtain hole card information during live play.'”3  Though $23,000,000 has been refunded3 to those who were deemed to have been scammed by NioNio, the investigation is still ongoing and the perpetrators behind the hack are still at large.
+	Absolute Poker became victim to a similar instance of cheating in 2007. Playing at the very highest stakes games, the cheating player (POTRIPPER) “...allegedly played every hand as if they knew every card that the other players had. They folded hands at the end that no normal player would fold, and they raised with hands that were winners but would seem like losers if you didn’t know the opponents’ cards. They won money at a rate that was about 100 times faster than a good player could reasonably expect to win.”2 After analyzing hand histories and HUD data, it was found that the cheating user played 89% of hands dealt, and won at a rate which was 14.03 standard deviations above expectation1. When Absolute Poker was made aware of these allegations, the company acknowledged "...a significant internal security breach whereby a resource who was infinitely knowledgeable about the system was able to get into the accounts in question. He played on those accounts and he saw hole cards."1  In 2008, Absolute Poker was fined $500,000 by the Kahnewake Gaming Commission, and forced to undergo random audits of their poker room software.1
+	Viewing the morality of HUD applications through different ethical frameworks yields mixed results. In Kantian ethics, the second formulation of the categorical imperative states that we “act in such a way that you treat humanity, whether in your own person or in any other person, always at the same time as an end, never merely as a means”.6 The game of poker itself violates the categorical imperative as poker is inherently a zero-sum game; in order to win, one must do so at the expense of another.
+	The Social Contract Theory is a framework which presents a set of rules governing behavior which are accepted by rational people on the condition that they are accepted by others as well.5  The use of HUD software in poker is available to any player wishing to utilize it, and is currently allowed by most major online poker websites.  For these reasons, a rational person would most likely rule that the use of HUD software is not immoral.
+	Virtue Ethics, emphasizing moral character rather than rules, duties, or consequences7, will judge the morality of a situation through the eyes of a “virtuous” person. With respect to HUD software usage, virtue ethics and Kantian ethics have a similar outlook. Because the game of poker involves inherent dishonesty as an integral part of the game, a virtuous person would choose not to play in the first place.
+	The ethical framework of Utilitarianism consists of a “system of ethics according to which the rightness or wrongness of an action should be judged by its consequences. The goal of utilitarian ethics is to promote the greatest happiness for the greatest number.”8   One must consider all possible consequences, good and bad, of HUD software usage, and attempt to scale them in terms of happiness provided to the greater good. Perhaps the greatest benefit provided by HUD software (to the greater good) is the ability to detect cheating users. Potential “bad” consequences of HUD software are limited to players who illegally obtain player-data through rule violations. This consequence is already ruled as wrong and immoral by nearly all poker websites, so it should not be factored into any moral judgment. Other potential “bad” consequences include players who feel taken advantage of by those who use the HUD software. Of course, this consequence should hold minimal weight due to the ability for all players to access this software.
+	Online poker, like many other games in the 21st Century, has evolved to a point where technology has changed how the game is played. Purists who disapprove of HUD software still have the option to play traditional poker in their local cardroom or casino if they choose. By choosing to play online poker, one must also accept the prevalence of innovative software integration within the game.
+
+
+
+REFERENCES
+
+1. http://wizardofodds.com/online-gambling/absolute-poker/
+   "Absolute Poker Warning"
+   Michael Shackleford, A.S.A.
+   Accessed 8/3/2015
+
+2. http://freakonomics.com/2007/09/20/how-not-to-cheat/
+   "How Not to Cheat"
+   Steven D. Levitt
+   Accessed 8/3/2015
+
+3. http://www.nbcnews.com/id/26563848/
+   "Poker site cheating plot a high-stakes whodunit"
+   Mike Brunker
+   Accessed 8/3/2015
+
+4. https://www.pokerstars.com/poker/room/prohibited/
+  “Third Party Tools and Services FAQ”
+   PokerStars.com
+   Accessed 8/8/2015
+
+5.http://www.csus.edu/indiv/g/gaskilld/ethics/sct.htm 
+  “Social Contract Theory”
+  Accessed 8/9/2015
+
+6. http://albert-introductiontophilosophy.blogspot.com/2011/04/kants-categorical-imperative-two.html
+  “Kant's Categorical Imperative”
+  Accessed 8/9/2015
+
+7. http://plato.stanford.edu/entries/ethics-virtue/
+  “Virtue Ethics”
+  Accessed 8/9/2015
+
+8. dictionary.reference.com/browse/utilitarianism 
+  “Utilitarianism”
+  Accessed 8/9/2015
+
+
+
